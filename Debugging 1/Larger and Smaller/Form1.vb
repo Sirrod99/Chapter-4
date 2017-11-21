@@ -11,24 +11,28 @@
             If Integer.TryParse(txtIntegerB.Text, intIntegerB) Then
                 ' Compare value A and value B.
                 If intIntegerA > intIntegerB Then
-                    lb1Message.Text = "Value A is greatest."
+                    lblMessage.Text = "Value A is greatest."
                 ElseIf intIntegerA < intIntegerB Then
-                    lb1Message.Text = "Value B is greatest."
+                    lblMessage.Text = "Value B is greatest."
                 Else
-                    lb1Message.Text = "Both values are equal."
+                    lblMessage.Text = "Both values are equal."
                 End If
                 ' Display the error message for value B.
             Else
-                lb1Message.Text = "Value B is not a valid integer."
+                lblMessage.Text = "Value B is not a valid integer."
             End If
             ' Display the error message for value A.
         Else
-            lb1Message.Text = "Value A is not a valid integer."
+            lblMessage.Text = "Value A is not a valid integer."
         End If
     End Sub
 
     Private Sub btnExit_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles btnExit.Click
         ' Close the form.
         Me.Close()
+    End Sub
+
+    Private Sub txtIntegerA_TextChanged(sender As Object, e As EventArgs) Handles txtIntegerA.TextChanged
+
     End Sub
 End Class

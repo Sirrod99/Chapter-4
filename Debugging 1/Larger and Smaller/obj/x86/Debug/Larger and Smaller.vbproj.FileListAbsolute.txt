@@ -24,3 +24,6 @@ D:\sovb12\instructor\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 
 S:\brosiusj\Visual\Solutions to Programming Challenges\Solutions Chapters 4 - 6\Solutions Chapters 4 - 6\Chapter 04\Challenge 1\Larger and Smaller\Larger and Smaller\obj\x86\Debug\Larger and Smaller.exe
 S:\brosiusj\Visual\Solutions to Programming Challenges\Solutions Chapters 4 - 6\Solutions Chapters 4 - 6\Chapter 04\Challenge 1\Larger and Smaller\Larger and Smaller\obj\x86\Debug\Larger and Smaller.xml
 S:\brosiusj\Visual\Solutions to Programming Challenges\Solutions Chapters 4 - 6\Solutions Chapters 4 - 6\Chapter 04\Challenge 1\Larger and Smaller\Larger and Smaller\obj\x86\Debug\Larger and Smaller.pdb
+C:\Users\zd131147\Desktop\Visual Basic\Chapter-4\Debugging 1\Larger and Smaller\obj\x86\Debug\Larger and Smaller.exe
+C:\Users\zd131147\Desktop\Visual Basic\Chapter-4\Debugging 1\Larger and Smaller\obj\x86\Debug\Larger and Smaller.xml
+C:\Users\zd131147\Desktop\Visual Basic\Chapter-4\Debugging 1\Larger and Smaller\obj\x86\Debug\Larger and Smaller.pdb
